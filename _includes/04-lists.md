@@ -1,5 +1,5 @@
 # favorite things
--traveling
--movies
--this
--that
+- traveling
+- movies
+- this
+- that
